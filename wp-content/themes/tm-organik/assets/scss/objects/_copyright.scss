@@ -1,0 +1,51 @@
+.copyright {
+    display: block;
+    width: 100%;
+    position: relative;
+    background: #e4e1dd;
+    .copyright_payment_img {
+        text-align: right;
+    }
+    .backtotop {
+        width: 127px;
+        height: 37px;
+        top: -36px;
+        left: 50%;
+        position: absolute;
+        margin-left: -63px;
+        cursor: pointer;
+        i {
+            font-size: 127px;
+            color: #E4E1DD;
+            top: -46px;
+            position: absolute;
+            width: 127px;
+            height: 127px;
+        }
+        &:before, &:after {
+            content: '\f3d8';
+            font-family: Ionicons;
+            font-size: 30px;
+            left: 54px;
+            position: absolute;
+            color: $primary-color;
+            z-index: 998;
+            line-height: 1;
+            @include transit;
+        }
+        &:before {
+            top: 18px;
+        }
+        &:after {
+            top: 25px;
+        }
+        &:hover {
+            &:before {
+                top: 13px
+            }
+            &:after {
+                top: 20px;
+            }
+        }
+    }
+}

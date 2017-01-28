@@ -1,0 +1,82 @@
+/*--------------------------------------------------------------
+# Header position: top
+--------------------------------------------------------------*/
+.header[position="top"] {
+    @include col(xs, 12);
+    @include media-breakpoint-up(lg) {
+        .home &[fixed="enable"], .home &.fixed {
+            position: absolute;
+            right: 0;
+            left: 0;
+            z-index: 999;
+        }
+    }
+    + .content {
+        @include col(xs, 12);
+    }
+}
+
+.header[position="top"] {
+    .navigation {
+        @include col(xs, 4);
+        @include col(lg, 12);
+    }
+    .navigation__logo {
+        @include col(md, 2);
+    }
+    .menu--primary {
+        @include col(xs, 12);
+        @include hidden(xs, md);
+    }
+    .header__extra {
+        @include col(xs, 12);
+        @include col(lg, 3);
+        @include hidden(lg, xxl);
+        text-align: right;
+    }
+}
+
+.header[position="top"] .branding[position="above"] {
+    @include col(md, 12);
+    + .navigation {
+        @include col(md, 12);
+    }
+    &.branding[align="left"] {
+        .branding__logo {
+            @include col(md, 3);
+        }
+        .branding__widget {
+            @include col(md, 9);
+        }
+    }
+    &.branding[align="center"] {
+        .branding__logo {
+            @include col(md, 12);
+            text-align: center;
+        }
+        .branding__widget {
+            @include col(md, 12);
+        }
+    }
+    &.branding[align="right"] {
+        .branding__logo {
+            @include col(md, 12);
+            text-align: right;
+        }
+        .branding__widget {
+            @include col(md, 12);
+        }
+    }
+}
+
+.header[position="top"] .branding[position="beside"] {
+    @include col(xs, 8);
+    @include col(lg, 3);
+    + .navigation {
+        @include col(lg, 9);
+        position: static;
+    }
+    .branding__logo {
+        @include col(xs, 12);
+    }
+}

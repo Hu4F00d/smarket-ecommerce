@@ -1,0 +1,45 @@
+/*--------------------------------------------------------------
+# Header mobile
+--------------------------------------------------------------*/
+header.header-mobile {
+    display: none;
+    padding: 30px 0;
+    width: 100%;
+    .header-left {
+        font-size: 35px;
+        text-align: left;
+        i {
+            color: #5E5A54;
+        }
+    }
+    .header-center {
+        text-align: center;
+    }
+    .header-right {
+        text-align: right;
+        .mini-cart .mini-cart-icon {
+            float: right;
+            margin: 0 0 0 20px;
+            color: #5E5A54;
+        }
+        .widget_shopping_cart_content {
+            left: auto;
+            right: 0 !important;
+            text-align: left;
+        }
+    }
+}
+
+@include media-breakpoint-down(md) {
+    header.header-mobile {
+        display: block;
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    header.header-mobile {
+        .mini-cart-wrap .mini-cart .mini-cart-text {
+            display: none;
+        }
+    }
+}

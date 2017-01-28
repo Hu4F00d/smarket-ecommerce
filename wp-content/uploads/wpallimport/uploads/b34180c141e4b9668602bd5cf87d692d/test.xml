@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[Zanahoria]]></title>
+		<price><![CDATA[5]]></price>
+	</node>
+	<node>
+		<title><![CDATA[Manzana]]></title>
+		<price><![CDATA[10]]></price>
+	</node>
+</data>

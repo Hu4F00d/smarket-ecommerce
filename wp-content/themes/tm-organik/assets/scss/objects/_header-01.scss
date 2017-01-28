@@ -1,0 +1,100 @@
+/*--------------------------------------------------------------
+# Header 01
+--------------------------------------------------------------*/
+header.header-01 {
+    .header-container {
+        position: relative;
+    }
+    .widget {
+        margin: 0;
+    }
+    .header-left {
+		position: absolute;
+		right: 100%;
+		min-width: 180px;
+		align-items: center;
+		bottom: 0;
+		top: 0;
+		display: flex;
+		@media (max-width: 1441px) {
+            margin-right: -70px;
+        }
+		@media (max-width: 1280px) {
+			html & {
+	            margin-right: -150px;
+			}
+        }
+        .header-call {
+            div {
+                display: inline-block;
+            }
+            .text {
+                font-size: 12px;
+                color: $gray-color;
+                span {
+                    display: block;
+                    font-size: 16px;
+                    color: $dark-gray-color;
+                    font-weight: 700;
+                }
+            }
+            .icon {
+                font-size: 35px;
+                color: $dark-gray-color;
+                float: right;
+                margin-left: 20px;
+                line-height: 42px;
+            }
+        }
+    }
+    .header-center {
+        text-align: center;
+    }
+    #branding_logo_li, li.top-search-btn {
+        display: none !important;
+    }
+    .header-right {
+        position: absolute;
+        left: 100%;
+        min-width: 180px;
+		align-items: center;
+		bottom: 0;
+		top: 0;
+		display: flex;
+        @media (max-width: 1280px) {
+            margin-left: -100px;
+        }
+    }
+    nav.menu {
+        text-align: center;
+        li {
+            a {
+                text-transform: uppercase;
+            }
+        }
+        #branding_logo_li {
+            vertical-align: middle;
+            a {
+                padding-top: 0 !important;
+                padding-bottom: 0 !important;
+            }
+        }
+        #branding_logo_li, li.top-search-btn {
+            display: inline-block !important;
+        }
+    }
+    nav.menu {
+        ul {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    }
+}
+
+@include media-breakpoint-down(lg) {
+    header.header-01 {
+        .header-left, .header-right {
+            display: none;
+        }
+    }
+}

@@ -1,0 +1,29 @@
+/*--------------------------------------------------------------
+# Header position: left
+--------------------------------------------------------------*/
+.header[position="left"] {
+    @include col(xs, 12);
+    @include media-breakpoint-up(xl) {
+        flex: 0 0 300px;
+    }
+    + .content {
+        @include col(xs, 12);
+        overflow: hidden;
+        @include media-breakpoint-up(xl) {
+            padding-left: 0;
+            flex: 0 0 calc(100% - 300px);
+        }
+    }
+    .wrapper {
+        height: 100%;
+    }
+}
+
+.header[position="left"] {
+    .branding {
+        @include col(xs, 12)
+    }
+    .navigation {
+        @include col(xs, 12)
+    }
+}

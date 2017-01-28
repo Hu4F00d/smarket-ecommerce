@@ -1,0 +1,5799 @@
+# Copyright (C) 2016 tm-organik
+# This file is distributed under the same license as the tm-organik package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tm-organik\n"
+"Report-Msgid-Bugs-To: http://thememove.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Language-Team: ThemeMove <thememovedotcom@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: src/tm-organik/404.php:17
+msgid "Opps! Seems the page is missing"
+msgstr ""
+
+#: src/tm-organik/404.php:18
+msgid "Please go back to"
+msgstr ""
+
+#: src/tm-organik/404.php:18
+msgid "Homepage"
+msgstr ""
+
+#: src/tm-organik/comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-organik/comments.php:40, src/tm-organik/comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: src/tm-organik/comments.php:44, src/tm-organik/comments.php:67
+msgid "Older Comments"
+msgstr ""
+
+#: src/tm-organik/comments.php:46, src/tm-organik/comments.php:69
+msgid "Newer Comments"
+msgstr ""
+
+#: src/tm-organik/comments.php:82
+msgid "Comments are closed."
+msgstr ""
+
+#: src/tm-organik/comments.php:91
+msgid "Name *"
+msgstr ""
+
+#: src/tm-organik/comments.php:92
+msgid "Email *"
+msgstr ""
+
+#: src/tm-organik/comments.php:93
+msgid "Website"
+msgstr ""
+
+#: src/tm-organik/comments.php:96, src/tm-organik/woocommerce/single-product-reviews.php:79
+msgid "Submit"
+msgstr ""
+
+#: src/tm-organik/comments.php:97
+msgid "Leave your thought"
+msgstr ""
+
+#: src/tm-organik/comments.php:101
+msgid "Comment *"
+msgstr ""
+
+#: src/tm-organik/components/content-classic.php:27, src/tm-organik/components/content-grid.php:28, src/tm-organik/components/content-list.php:31, src/tm-organik/vc-extend/vc-templates/insight_blog.php:81, src/tm-organik/vc-extend/vc-templates/insight_blog.php:117
+msgid "Read more"
+msgstr ""
+
+#: src/tm-organik/components/content-classic.php:31, src/tm-organik/framework/class-templates.php:68
+msgid "Share this post"
+msgstr ""
+
+#: src/tm-organik/components/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: src/tm-organik/components/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: src/tm-organik/components/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: src/tm-organik/components/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: src/tm-organik/components/content-page.php:17, src/tm-organik/components/content-single.php:33, src/tm-organik/components/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: src/tm-organik/components/content-single.php:28, src/tm-organik/components/content.php:29
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: src/tm-organik/components/header-02.php:8
+msgid "What are you looking for?"
+msgstr ""
+
+#: src/tm-organik/components/mobile-menu.php:11
+msgid "Please choose a menu"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:25
+msgid "Site"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:26
+msgid "Control the site layout, color and typography."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:31
+msgid "Top Bar"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:32
+msgid "Control the top bar layout, spacing, typography and color."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:37, src/tm-organik/framework/class-metabox.php:77
+msgid "Header"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:38
+msgid "Control the header style, layout, spacing and color."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:43
+msgid "Navigation"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:44
+msgid "Control the navigation typography, spacing and color."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:49, src/tm-organik/framework/class-metabox.php:128
+msgid "Breadcrumbs"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:54
+msgid "Footer"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:55
+msgid "Control the footer preset, layout, spacing, typography and color."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:60
+msgid "Copyright"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:61
+msgid "Control the copyright layout, spacing, typography, color and content."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:66, src/tm-organik/customizer/section-site.php:27
+msgid "Page"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:67
+msgid "Control the page title typography, color and background."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:72, src/tm-organik/customizer/section-site.php:37
+msgid "Post"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:73
+msgid "Control the post title typography, color and background."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:78
+msgid "Shop"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:79
+msgid "Control the shop layout, shop title, product archive pages and product single page."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:84
+msgid "Notice"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:89
+msgid "Ads Popup"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:94
+msgid "Logo"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:95
+msgid "Control the default logo, mobile logo and sticky logo."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:100
+msgid "Socials"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:101
+msgid "Control the social links for footer and other places."
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:106
+msgid "Custom Code"
+msgstr ""
+
+#: src/tm-organik/customizer/customizer.php:107
+msgid "Control the custom CSS and JS code."
+msgstr ""
+
+#: src/tm-organik/customizer/section-breadcrumbs.php:10, src/tm-organik/customizer/section-copyright.php:18, src/tm-organik/customizer/section-footer.php:86, src/tm-organik/customizer/section-header.php:42, src/tm-organik/customizer/section-topbar.php:18, src/tm-organik/framework/class-metabox.php:111, src/tm-organik/framework/class-metabox.php:134
+msgid "Visibility"
+msgstr ""
+
+#: src/tm-organik/customizer/section-breadcrumbs.php:11
+msgid "Show/hide the breadcrumbs."
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:12, src/tm-organik/customizer/section-copyright.php:12, src/tm-organik/customizer/section-footer.php:80, src/tm-organik/customizer/section-header.php:36, src/tm-organik/customizer/section-shop.php:13, src/tm-organik/customizer/section-site.php:13, src/tm-organik/customizer/section-topbar.php:12, src/tm-organik/framework/class-metabox.php:43
+msgid "Layout"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:18, src/tm-organik/vc-extend/vc-maps/insight_about2.php:20, src/tm-organik/vc-extend/vc-maps/insight_blog.php:20, src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:21, src/tm-organik/vc-extend/vc-maps/insight_gallery.php:20, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:21, src/tm-organik/vc-extend/vc-maps/insight_process.php:20, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:15, src/tm-organik/vc-extend/vc-maps/insight_title.php:53, src/tm-organik/vc-extend/vc-params/imgradio.php:12
+msgid "Style"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:19, src/tm-organik/customizer/section-buttons.php:34, src/tm-organik/customizer/section-buttons.php:49
+msgid "Controls the position of the buttons to be in the top, left or right of the site."
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:24
+msgid "3D"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:25
+msgid "Flat"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:26
+msgid "Transparent"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:33
+msgid "Shape"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:39
+msgid "Square"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:40
+msgid "Rounded"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:41
+msgid "Pill"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:48, src/tm-organik/customizer/section-mobile-menu.php:151
+msgid "Size"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:54
+msgid "Mini"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:55
+msgid "Small"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:56
+msgid "Regular"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:57
+msgid "Large"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:58
+msgid "Extra Large"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:70
+msgid "Colors"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:76, src/tm-organik/customizer/section-buttons.php:138, src/tm-organik/customizer/section-copyright.php:244, src/tm-organik/customizer/section-copyright.php:319, src/tm-organik/customizer/section-footer.php:322, src/tm-organik/customizer/section-topbar.php:40, src/tm-organik/customizer/section-topbar.php:225
+msgid "Text"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:77, src/tm-organik/customizer/section-buttons.php:94, src/tm-organik/customizer/section-buttons.php:111, src/tm-organik/customizer/section-buttons.php:139, src/tm-organik/customizer/section-buttons.php:156, src/tm-organik/customizer/section-buttons.php:173, src/tm-organik/customizer/section-mobile-menu.php:54, src/tm-organik/customizer/section-mobile-menu.php:71, src/tm-organik/customizer/section-mobile-menu.php:88, src/tm-organik/customizer/section-mobile-menu.php:105, src/tm-organik/customizer/section-mobile-menu.php:240
+msgid "Controls the color of all menu item links."
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:93, src/tm-organik/customizer/section-buttons.php:155, src/tm-organik/customizer/section-copyright.php:224, src/tm-organik/customizer/section-footer.php:306, src/tm-organik/customizer/section-mobile-menu.php:53, src/tm-organik/customizer/section-page.php:87, src/tm-organik/customizer/section-post.php:111, src/tm-organik/customizer/section-topbar.php:209
+msgid "Background"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:110, src/tm-organik/customizer/section-buttons.php:172, src/tm-organik/customizer/section-mobile-menu.php:70
+msgid "Border"
+msgstr ""
+
+#: src/tm-organik/customizer/section-buttons.php:132
+msgid "Hover colors"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:19
+msgid "Enable to show the copyright section."
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:36, src/tm-organik/customizer/section-copyright.php:292
+msgid "Back to top"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:37
+msgid "Enable to show the back to top button."
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:51, src/tm-organik/customizer/section-desktop-menu.php:104, src/tm-organik/customizer/section-footer.php:138, src/tm-organik/customizer/section-header.php:91, src/tm-organik/customizer/section-mobile-menu.php:178, src/tm-organik/customizer/section-topbar.php:62
+msgid "Spacing"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:57, src/tm-organik/customizer/section-desktop-menu.php:110, src/tm-organik/customizer/section-footer.php:144, src/tm-organik/customizer/section-header.php:97, src/tm-organik/customizer/section-topbar.php:68
+msgid "Sensitivity"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:58, src/tm-organik/customizer/section-copyright.php:175, src/tm-organik/customizer/section-desktop-menu.php:41, src/tm-organik/customizer/section-desktop-menu.php:111, src/tm-organik/customizer/section-footer.php:145, src/tm-organik/customizer/section-footer.php:259, src/tm-organik/customizer/section-header.php:98, src/tm-organik/customizer/section-topbar.php:69
+msgid "Values below 1 decrease rate of resizing."
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:72, src/tm-organik/customizer/section-desktop-menu.php:125, src/tm-organik/customizer/section-footer.php:159, src/tm-organik/customizer/section-header.php:112, src/tm-organik/customizer/section-mobile-menu.php:184, src/tm-organik/customizer/section-page.php:43, src/tm-organik/customizer/section-post.php:67, src/tm-organik/customizer/section-shop.php:82, src/tm-organik/customizer/section-topbar.php:83
+msgid "Padding top"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:95, src/tm-organik/customizer/section-desktop-menu.php:147, src/tm-organik/customizer/section-footer.php:181, src/tm-organik/customizer/section-header.php:135, src/tm-organik/customizer/section-mobile-menu.php:206, src/tm-organik/customizer/section-page.php:65, src/tm-organik/customizer/section-post.php:89, src/tm-organik/customizer/section-shop.php:104, src/tm-organik/customizer/section-topbar.php:105
+msgid "Padding bottom"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:118, src/tm-organik/customizer/section-footer.php:203, src/tm-organik/customizer/section-header.php:158
+msgid "Margin top"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:141, src/tm-organik/customizer/section-footer.php:225, src/tm-organik/customizer/section-header.php:181
+msgid "Margin bottom"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:168, src/tm-organik/customizer/section-desktop-menu.php:13, src/tm-organik/customizer/section-footer.php:252, src/tm-organik/customizer/section-mobile-menu.php:13, src/tm-organik/customizer/section-topbar.php:132
+msgid "Typography"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:174, src/tm-organik/customizer/section-desktop-menu.php:40, src/tm-organik/customizer/section-footer.php:258, src/tm-organik/customizer/section-site.php:332, src/tm-organik/customizer/section-site.php:436, src/tm-organik/customizer/section-topbar.php:183
+msgid "Font sensitivity"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:189, src/tm-organik/customizer/section-footer.php:273, src/tm-organik/customizer/section-site.php:347, src/tm-organik/customizer/section-site.php:451, src/tm-organik/customizer/section-topbar.php:160, src/tm-organik/vc-extend/vc-maps/insight_icon.php:63
+msgid "Font size"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:217, src/tm-organik/customizer/section-desktop-menu.php:219, src/tm-organik/customizer/section-footer.php:300, src/tm-organik/customizer/section-header.php:209, src/tm-organik/customizer/section-mobile-menu.php:47, src/tm-organik/customizer/section-mobile-menu.php:233, src/tm-organik/customizer/section-mobile-menu.php:239, src/tm-organik/customizer/section-topbar.php:203, src/tm-organik/vc-extend/vc-maps/insight_title.php:62
+msgid "Color"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:260, src/tm-organik/customizer/section-footer.php:338, src/tm-organik/customizer/section-popup.php:44, src/tm-organik/vc-extend/vc-maps/insight_about2.php:87, src/tm-organik/vc-extend/vc-maps/insight_button.php:20, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:43, src/tm-organik/vc-extend/vc-params/social-links.php:107
+msgid "Link"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:276, src/tm-organik/customizer/section-desktop-menu.php:241, src/tm-organik/customizer/section-desktop-menu.php:292, src/tm-organik/customizer/section-footer.php:354, src/tm-organik/customizer/section-mobile-menu.php:104, src/tm-organik/customizer/section-topbar.php:257
+msgid "Link hover"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:313, src/tm-organik/framework/class-helper.php:238, src/tm-organik/vc-extend/vc-maps/insight_accordion.php:61, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:90, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:37, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:102
+msgid "Content"
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:320
+msgid "Enter the text that displays in the copyright section. HTML markup can be used."
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:323
+msgid "Copyright &copy; 2016 Organic Store - All Rights Reserved."
+msgstr ""
+
+#: src/tm-organik/customizer/section-copyright.php:336
+msgid "Payment Image"
+msgstr ""
+
+#: src/tm-organik/customizer/section-custom.php:13
+msgid "Custom CSS"
+msgstr ""
+
+#: src/tm-organik/customizer/section-custom.php:19, src/tm-organik/customizer/section-custom.php:61, src/tm-organik/customizer/section-popup.php:11, src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:68
+msgid "Enable"
+msgstr ""
+
+#: src/tm-organik/customizer/section-custom.php:20, src/tm-organik/customizer/section-custom.php:62
+msgid "Enabling this option will display top area"
+msgstr ""
+
+#: src/tm-organik/customizer/section-custom.php:54
+msgid "Custom JS"
+msgstr ""
+
+#: src/tm-organik/customizer/section-desktop-menu.php:19, src/tm-organik/customizer/section-mobile-menu.php:19, src/tm-organik/customizer/section-page.php:16, src/tm-organik/customizer/section-post.php:44, src/tm-organik/customizer/section-shop.php:59, src/tm-organik/customizer/section-site.php:309, src/tm-organik/customizer/section-site.php:380, src/tm-organik/customizer/section-site.php:413, src/tm-organik/customizer/section-topbar.php:138
+msgid "Font family"
+msgstr ""
+
+#: src/tm-organik/customizer/section-desktop-menu.php:55
+msgid "Level 1 Font size"
+msgstr ""
+
+#: src/tm-organik/customizer/section-desktop-menu.php:77
+msgid "Level 2 Font size"
+msgstr ""
+
+#: src/tm-organik/customizer/section-desktop-menu.php:170
+msgid "Padding left"
+msgstr ""
+
+#: src/tm-organik/customizer/section-desktop-menu.php:192
+msgid "Padding right"
+msgstr ""
+
+#: src/tm-organik/customizer/section-desktop-menu.php:225, src/tm-organik/customizer/section-desktop-menu.php:268, src/tm-organik/customizer/section-mobile-menu.php:87, src/tm-organik/customizer/section-topbar.php:241
+msgid "Link normal"
+msgstr ""
+
+#: src/tm-organik/customizer/section-desktop-menu.php:262
+msgid "Color for Overlay Header"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:12, src/tm-organik/customizer/section-header.php:12, src/tm-organik/customizer/section-mobile-menu.php:145
+msgid "General"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:18
+msgid "Choose a preset you want"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:19
+msgid "Preset"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:26
+msgid "Preset 1"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:48
+msgid "Preset 2"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:87
+msgid "Show/hide the footer."
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:104
+msgid "Footer logo"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:105
+msgid "Enable to show the logo in footer."
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:114
+msgid "Footer logo image"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:123, src/tm-organik/vc-extend/vc-maps/insight_team_member.php:70
+msgid "Social links"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:124
+msgid "Enable to show the social links in footer."
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:370
+msgid "Widget title"
+msgstr ""
+
+#: src/tm-organik/customizer/section-footer.php:386
+msgid "Widget title border"
+msgstr ""
+
+#: src/tm-organik/customizer/section-header.php:18
+msgid "Header Type"
+msgstr ""
+
+#: src/tm-organik/customizer/section-header.php:59, src/tm-organik/customizer/section-logo.php:40
+msgid "Sticky"
+msgstr ""
+
+#: src/tm-organik/customizer/section-header.php:68
+msgid "Mini cart"
+msgstr ""
+
+#: src/tm-organik/customizer/section-header.php:77, src/tm-organik/customizer/section-site.php:57
+msgid "Search"
+msgstr ""
+
+#: src/tm-organik/customizer/section-header.php:215
+msgid "Background color"
+msgstr ""
+
+#: src/tm-organik/customizer/section-header.php:231
+msgid "Bachground color for Overlay Header"
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:12
+msgid "Default logo"
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:18
+msgid "Normal logo"
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:19, src/tm-organik/customizer/section-logo.php:65, src/tm-organik/customizer/section-logo.php:75
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:28
+msgid "Retina logo"
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:29
+msgid "Select an image file for the retina version of the logo. It should be exactly 2x the size of the main logo."
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:46
+msgid "Sticky header logo"
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:47
+msgid "Select an image file for your sticky header logo."
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:58
+msgid "Mobile"
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:64
+msgid "Mobile logo"
+msgstr ""
+
+#: src/tm-organik/customizer/section-logo.php:74
+msgid "Overlay header logo"
+msgstr ""
+
+#: src/tm-organik/customizer/section-mobile-menu.php:20
+msgid "These settings control the typography for all menu item text."
+msgstr ""
+
+#: src/tm-organik/customizer/section-mobile-menu.php:126
+msgid "Toggle"
+msgstr ""
+
+#: src/tm-organik/customizer/section-mobile-menu.php:134
+msgid "Easily adjust your site's copyright by setting your widget areas to the specific number desired and turning on or off various parts as needed. You're never forced to use a layout you don't need with theme."
+msgstr ""
+
+#: src/tm-organik/customizer/section-notice.php:11
+msgid "Cookie notice"
+msgstr ""
+
+#: src/tm-organik/customizer/section-notice.php:12
+msgid "The notice about cookie auto show when a user visits the site."
+msgstr ""
+
+#: src/tm-organik/customizer/section-notice.php:21
+msgid "Added to cart notice"
+msgstr ""
+
+#: src/tm-organik/customizer/section-notice.php:22
+msgid "Enable the notice when added one product to cart successful."
+msgstr ""
+
+#: src/tm-organik/customizer/section-notice.php:31
+msgid "Added to wishlist notice"
+msgstr ""
+
+#: src/tm-organik/customizer/section-notice.php:32
+msgid "Enable the notice when added one product to wish list successful."
+msgstr ""
+
+#: src/tm-organik/customizer/section-page.php:10
+msgid "Page Title"
+msgstr ""
+
+#: src/tm-organik/customizer/section-page.php:88
+msgid "Controls the color of title background."
+msgstr ""
+
+#: src/tm-organik/customizer/section-page.php:104, src/tm-organik/customizer/section-post.php:127, src/tm-organik/customizer/section-shop.php:142
+msgid "Background Image"
+msgstr ""
+
+#: src/tm-organik/customizer/section-page.php:105
+msgid "Select an image file for title background."
+msgstr ""
+
+#: src/tm-organik/customizer/section-popup.php:20
+msgid "Time to nullify pop-up (in minutes)"
+msgstr ""
+
+#: src/tm-organik/customizer/section-popup.php:21
+msgid "Choose the length of time in which pop-up will not appear whenever you click a page."
+msgstr ""
+
+#: src/tm-organik/customizer/section-popup.php:35, src/tm-organik/vc-extend/vc-maps/insight_team_member.php:38
+msgid "Image"
+msgstr ""
+
+#: src/tm-organik/customizer/section-popup.php:45
+msgid "Enter the URL you want to redirect when to click on Ads image."
+msgstr ""
+
+#: src/tm-organik/customizer/section-post.php:10
+msgid "Single Post"
+msgstr ""
+
+#: src/tm-organik/customizer/section-post.php:16
+msgid "Show author"
+msgstr ""
+
+#: src/tm-organik/customizer/section-post.php:17
+msgid "Enable to show the author information in single post."
+msgstr ""
+
+#: src/tm-organik/customizer/section-post.php:26
+msgid "Show prev/next post"
+msgstr ""
+
+#: src/tm-organik/customizer/section-post.php:27
+msgid "Enable to show the prev/next post in single post."
+msgstr ""
+
+#: src/tm-organik/customizer/section-post.php:38
+msgid "Post Title"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:19
+msgid "Archive Pages"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:20
+msgid "Choose layout for all product archive pages as product category, product tag, product search..."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:30
+msgid "Product Detail"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:31
+msgid "Choose layout for single product page."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:41, src/tm-organik/customizer/section-site.php:67
+msgid "Hide Sidebar on Mobile"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:42, src/tm-organik/customizer/section-site.php:68
+msgid "Enable this option to hide the sidebar on mobile screen."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:53
+msgid "Shop Title"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:126
+msgid "Background Color"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:160
+msgid "Product Archive"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:166, src/tm-organik/customizer/section-shop.php:266, src/tm-organik/woocommerce/content-product-02.php:57, src/tm-organik/woocommerce/content-product-02.php:57, src/tm-organik/woocommerce/content-product-02.php:93, src/tm-organik/woocommerce/content-product-02.php:93, src/tm-organik/woocommerce/content-product.php:44, src/tm-organik/woocommerce/content-product.php:44, src/tm-organik/woocommerce/content-product.php:68, src/tm-organik/woocommerce/content-product.php:68, src/tm-organik/woocommerce/single-product/meta.php:32, src/tm-organik/woocommerce/single-product/meta.php:32
+msgid "Compare"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:167, src/tm-organik/customizer/section-shop.php:267
+msgid "Enable to show the compare button."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:176, src/tm-organik/customizer/section-shop.php:276
+msgid "Wishlist"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:177, src/tm-organik/customizer/section-shop.php:277
+msgid "Enable to show the wishlist button."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:186
+msgid "View Switch"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:187
+msgid "Switch between grid/list style on shop or product category page."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:196
+msgid "Category Columns"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:197
+msgid "Controls the columns of category (or sub-category) on shop or product category page."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:202, src/tm-organik/customizer/section-shop.php:227
+msgid "2"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:203, src/tm-organik/customizer/section-shop.php:228
+msgid "3"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:204, src/tm-organik/customizer/section-shop.php:229
+msgid "4"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:211
+msgid "Category Slider"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:212
+msgid "Enable slider for category or sub-category on product arichive page."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:221
+msgid "Product Columns"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:222
+msgid "Controls the columns of product on shop or product category page."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:236
+msgid "New Badge (Days)"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:237
+msgid "If the product was published within the newness time frame display the new badge."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:242
+msgid "1 day"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:243
+msgid "2 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:244
+msgid "3 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:245
+msgid "4 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:246
+msgid "5 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:247
+msgid "6 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:248
+msgid "7 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:249
+msgid "8 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:250
+msgid "9 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:251
+msgid "10 days"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:260
+msgid "Product Single"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:286
+msgid "Share Buttons"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:287
+msgid "Enable to show the share buttons."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:296
+msgid "Up Sells"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:297
+msgid "Number of up-sells products. Set 0 to hide this section."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:311
+msgid "Recent Viewed Products"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:312
+msgid "Number of recent viewed products. Set 0 to hide this section."
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:326
+msgid "Related Products"
+msgstr ""
+
+#: src/tm-organik/customizer/section-shop.php:327
+msgid "Number of related products. Set 0 to hide this section."
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:21
+msgid "Easily adjust your site's layout."
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:47
+msgid "Archive"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:82
+msgid "Main Color"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:88, src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:9
+msgid "Primary color"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:220, src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:10
+msgid "Secondary color"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:260
+msgid "Link Color"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:266
+msgid "Normal"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:282
+msgid "Hover"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:303
+msgid "Body Typography"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:310
+msgid "These settings control the typography for all body text."
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:333, src/tm-organik/customizer/section-site.php:437, src/tm-organik/customizer/section-topbar.php:184
+msgid "Values below 1 decrease rate of resizing, values above 1 increase rate of resizing."
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:374
+msgid "Special Heading Typography"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:381
+msgid "These settings control the typography for all special heading text."
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:407
+msgid "Normal Heading Typography"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:414
+msgid "These settings control the typography for all heading text."
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:452
+msgid "H1"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:475
+msgid "H2"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:498
+msgid "H3"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:521
+msgid "H4"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:544
+msgid "H5"
+msgstr ""
+
+#: src/tm-organik/customizer/section-site.php:567
+msgid "H6"
+msgstr ""
+
+#: src/tm-organik/customizer/section-socials.php:11
+msgid "You can find icon class <a target=\"_blank\" href=\"http://fontawesome.io/cheatsheet/\">here</a>."
+msgstr ""
+
+#: src/tm-organik/customizer/section-socials.php:48
+msgid "Tooltip"
+msgstr ""
+
+#: src/tm-organik/customizer/section-socials.php:49
+msgid "Enter your hint text for your icon"
+msgstr ""
+
+#: src/tm-organik/customizer/section-socials.php:54
+msgid "Font Awesome Class"
+msgstr ""
+
+#: src/tm-organik/customizer/section-socials.php:55
+msgid "This will be the icon class for your link"
+msgstr ""
+
+#: src/tm-organik/customizer/section-socials.php:60
+msgid "Link URL"
+msgstr ""
+
+#: src/tm-organik/customizer/section-socials.php:61
+msgid "This will be the link URL"
+msgstr ""
+
+#: src/tm-organik/customizer/section-topbar.php:19
+msgid "Show/hide top bar."
+msgstr ""
+
+#: src/tm-organik/customizer/section-topbar.php:41
+msgid "Non risus fringilla neque at convallis in."
+msgstr ""
+
+#: src/tm-organik/customizer/section-topbar.php:44
+msgid "Work time: Monday - Friday: 08AM-06PM"
+msgstr ""
+
+#: src/tm-organik/customizer/section-topbar.php:139
+msgid "These settings control the typography for all top bar text."
+msgstr ""
+
+#: src/tm-organik/framework/class-compatible.php:59, src/tm-organik/framework/class-compatible.php:71, src/tm-organik/framework/class-compatible.php:85
+msgid " requires at least WordPress version 4.3. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: src/tm-organik/framework/class-enqueue.php:121
+msgid "View cart"
+msgstr ""
+
+#: src/tm-organik/framework/class-enqueue.php:122
+msgid "Has been added to your cart!"
+msgstr ""
+
+#: src/tm-organik/framework/class-enqueue.php:123
+msgid "Added to wishlist!"
+msgstr ""
+
+#: src/tm-organik/framework/class-enqueue.php:124
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it. <a class=\"cookie_notice_ok\">OK, GOT IT</a>"
+msgstr ""
+
+#: src/tm-organik/framework/class-enqueue.php:129
+msgid "Thank you! Hope you have the best experience on our website."
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:37
+msgid "Album"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:38
+msgid "arc"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:39
+msgid "back-2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:40
+msgid "bandaid"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:41
+msgid "car"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:42
+msgid "diamond"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:43
+msgid "door-lock"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:44
+msgid "eyedropper"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:45, src/tm-organik/framework/class-fonticon.php:374
+msgid "female"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:46
+msgid "gym"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:47, src/tm-organik/framework/class-fonticon.php:312
+msgid "hammer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:48
+msgid "headphones"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:49
+msgid "helm"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:50
+msgid "hourglass"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:51, src/tm-organik/framework/class-fonticon.php:481, src/tm-organik/framework/class-fonticon.php:1000
+msgid "leaf"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:52
+msgid "magic wand"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:53, src/tm-organik/framework/class-fonticon.php:375
+msgid "male"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:54
+msgid "map 2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:55
+msgid "next 2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:56
+msgid "paint bucket"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:57
+msgid "pendrive"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:58
+msgid "photo"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:59
+msgid "piggy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:60
+msgid "plugin"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:61
+msgid "refresh 2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:62
+msgid "rocket"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:63, src/tm-organik/framework/class-fonticon.php:310
+msgid "settings"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:64
+msgid "shield"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:65
+msgid "smile"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:66, src/tm-organik/framework/class-fonticon.php:418
+msgid "usb"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:67
+msgid "vector"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:68
+msgid "wine"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:69
+msgid "cloud upload"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:70, src/tm-organik/framework/class-fonticon.php:456
+msgid "cash"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:71, src/tm-organik/framework/class-fonticon.php:279
+msgid "close"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:72, src/tm-organik/framework/class-fonticon.php:395
+msgid "bluetooth"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:73
+msgid "cloud download"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:74
+msgid "way"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:75
+msgid "close circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:76
+msgid "id"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:77
+msgid "angle up"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:78
+msgid "wristwatch"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:79
+msgid "angle-up-circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:80
+msgid "world"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:81
+msgid "Angle Right"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:82
+msgid "volume"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:83
+msgid "angle right circle right"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:84
+msgid "Users"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:85
+msgid "angle left"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:86
+msgid "user female"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:87
+msgid "angle left circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:88
+msgid "Sound"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:89
+msgid "up arrow"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:90
+msgid "switch"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:91
+msgid "down circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:92, src/tm-organik/framework/class-fonticon.php:319
+msgid "scissors"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:93
+msgid "wallet"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:94
+msgid "safe"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:95
+msgid "volume2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:96
+msgid "volume1"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:97
+msgid "voice mail"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:98
+msgid "video"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:99
+msgid "user"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:100, src/tm-organik/framework/class-fonticon.php:341
+msgid "upload"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:101
+msgid "unlock"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:102, src/tm-organik/framework/class-fonticon.php:486
+msgid "umbrella"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:103
+msgid "trash"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:104
+msgid "tools"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:105
+msgid "timer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:106
+msgid "ticket"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:107
+msgid "target"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:108
+msgid "sun"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:109
+msgid "study"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:110
+msgid "stopwatch"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:111, src/tm-organik/framework/class-fonticon.php:303
+msgid "star"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:112
+msgid "speaker"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:113
+msgid "signal"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:114, src/tm-organik/framework/class-fonticon.php:299
+msgid "shuffle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:115
+msgid "shopbag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:116, src/tm-organik/framework/class-fonticon.php:330
+msgid "share"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:117
+msgid "server"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:118, src/tm-organik/framework/class-fonticon.php:301
+msgid "search"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:119
+msgid "film"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:120
+msgid "science"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:121
+msgid "disk"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:122
+msgid "ribbon"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:123
+msgid "repeat"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:124, src/tm-organik/framework/class-fonticon.php:297
+msgid "refresh"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:125
+msgid "add user"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:126
+msgid "refresh cloud"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:127, src/tm-organik/framework/class-fonticon.php:333
+msgid "paperclip"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:128
+msgid "radio"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:129
+msgid "note2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:130
+msgid "print"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:131, src/tm-organik/framework/class-fonticon.php:425
+msgid "network"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:132
+msgid "prev"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:133
+msgid "mute"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:134, src/tm-organik/framework/class-fonticon.php:387
+msgid "power"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:135
+msgid "medal"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:136
+msgid "portfolio"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:137
+msgid "like2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:138, src/tm-organik/framework/class-fonticon.php:282
+msgid "plus"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:139
+msgid "left arrow"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:140, src/tm-organik/framework/class-fonticon.php:447
+msgid "play"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:141, src/tm-organik/framework/class-fonticon.php:355
+msgid "key"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:142, src/tm-organik/framework/class-fonticon.php:492
+msgid "plane"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:143
+msgid "joy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:144
+msgid "photo gallery"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:145, src/tm-organik/framework/class-fonticon.php:348
+msgid "pin"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:146
+msgid "phone"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:147
+msgid "plug"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:148
+msgid "pen"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:149
+msgid "right arrow"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:150
+msgid "paper plane"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:151
+msgid "delete user"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:152
+msgid "paint"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:153
+msgid "bottom arrow"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:154
+msgid "notebook"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:155
+msgid "note"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:156
+msgid "next"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:157
+msgid "news paper"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:158
+msgid "musiclist"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:159
+msgid "music"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:160, src/tm-organik/framework/class-fonticon.php:388
+msgid "mouse"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:161, src/tm-organik/framework/class-fonticon.php:342
+msgid "more"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:162
+msgid "moon"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:163, src/tm-organik/framework/class-fonticon.php:412
+msgid "monitor"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:164
+msgid "micro"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:165
+msgid "menu"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:166, src/tm-organik/framework/class-fonticon.php:351
+msgid "map"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:167
+msgid "map marker"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:168
+msgid "mail"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:169
+msgid "mail open"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:170
+msgid "mail open file"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:171, src/tm-organik/framework/class-fonticon.php:473
+msgid "magnet"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:172, src/tm-organik/framework/class-fonticon.php:298
+msgid "loop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:173
+msgid "look"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:174
+msgid "lock"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:175
+msgid "lintern"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:176, src/tm-organik/framework/class-fonticon.php:332
+msgid "link"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:177
+msgid "like"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:178
+msgid "light"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:179
+msgid "less"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:180
+msgid "keypad"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:181
+msgid "junk"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:182
+msgid "info"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:183, src/tm-organik/framework/class-fonticon.php:300
+msgid "home"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:184
+msgid "help2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:185
+msgid "help1"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:186, src/tm-organik/framework/class-fonticon.php:189
+msgid "graph3"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:187
+msgid "graph2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:188
+msgid "graph1"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:190
+msgid "global"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:191
+msgid "gleam"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:192
+msgid "glasses"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:193
+msgid "gift"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:194, src/tm-organik/framework/class-fonticon.php:324
+msgid "folder"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:195, src/tm-organik/framework/class-fonticon.php:302
+msgid "flag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:196
+msgid "filter"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:197
+msgid "file"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:198
+msgid "expand1"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:199
+msgid "expand2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:200, src/tm-organik/framework/class-fonticon.php:313
+msgid "edit"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:201
+msgid "drop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:202
+msgid "drawer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:203
+msgid "download"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:204
+msgid "display2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:205
+msgid "display1"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:206
+msgid "diskette"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:207
+msgid "date"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:208
+msgid "cup"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:209
+msgid "culture"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:210, src/tm-organik/framework/class-fonticon.php:408
+msgid "crop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:211
+msgid "credit"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:212
+msgid "copy file"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:213
+msgid "config"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:214, src/tm-organik/framework/class-fonticon.php:346
+msgid "compass"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:215
+msgid "comment"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:216, src/tm-organik/framework/class-fonticon.php:384
+msgid "coffee"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:217, src/tm-organik/framework/class-fonticon.php:340
+msgid "cloud"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:218, src/tm-organik/framework/class-fonticon.php:345
+msgid "clock"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:219
+msgid "check"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:220
+msgid "chat"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:221
+msgid "cart"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:222
+msgid "Camera"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:223
+msgid "call"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:224, src/tm-organik/framework/class-fonticon.php:396
+msgid "calculator"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:225
+msgid "browser"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:226
+msgid "box2"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:227
+msgid "box1"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:228
+msgid "bookmarks"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:229
+msgid "bicycle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:230
+msgid "bell"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:231
+msgid "battery"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:232
+msgid "ball"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:233
+msgid "back"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:234
+msgid "attention"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:235
+msgid "anchor"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:236
+msgid "albums"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:237
+msgid "alarm"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:238
+msgid "airplay"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:246
+msgid "ionic"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:247
+msgid "arrow up a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:248
+msgid "arrow right a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:249
+msgid "arrow down a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:250
+msgid "arrow left a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:251
+msgid "arrow up b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:252
+msgid "arrow right b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:253
+msgid "arrow down b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:254
+msgid "arrow left b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:255
+msgid "arrow up c"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:256
+msgid "arrow right c"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:257
+msgid "arrow down c"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:258
+msgid "arrow left c"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:259
+msgid "arrow return right"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:260
+msgid "arrow return left"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:261
+msgid "arrow swap"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:262
+msgid "arrow shrink"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:263
+msgid "arrow expand"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:264
+msgid "arrow move"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:265
+msgid "arrow resize"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:266
+msgid "chevron up"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:267
+msgid "chevron right"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:268
+msgid "chevron down"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:269
+msgid "chevron left"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:270
+msgid "navicon round"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:271
+msgid "navicon"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:272
+msgid "drag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:273
+msgid "log in"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:274
+msgid "log out"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:275
+msgid "checkmark round"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:276
+msgid "checkmark"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:277
+msgid "checkmark circled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:278
+msgid "close round"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:280
+msgid "close circled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:281
+msgid "plus round"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:283
+msgid "plus circled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:284
+msgid "minus round"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:285
+msgid "minus"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:286
+msgid "minus circled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:287
+msgid "information"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:288
+msgid "information circled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:289
+msgid "help"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:290
+msgid "help circled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:291
+msgid "backspace outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:292
+msgid "backspace"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:293
+msgid "help buoy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:294
+msgid "asterisk"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:295
+msgid "alert"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:296
+msgid "alert circled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:304
+msgid "heart"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:305
+msgid "heart broken"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:306
+msgid "gear a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:307
+msgid "gear b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:308
+msgid "toggle filled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:309
+msgid "toggle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:311
+msgid "wrench"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:314
+msgid "trash a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:315
+msgid "trash b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:316
+msgid "document"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:317
+msgid "document text"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:318
+msgid "clipboard"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:320
+msgid "funnel"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:321
+msgid "bookmark"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:322
+msgid "email"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:323
+msgid "email unread"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:325
+msgid "filing"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:326
+msgid "archive"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:327
+msgid "reply"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:328
+msgid "reply all"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:329
+msgid "forward"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:331
+msgid "paper airplane"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:334
+msgid "compose"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:335
+msgid "briefcase"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:336
+msgid "medkit"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:337
+msgid "at"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:338
+msgid "pound"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:339
+msgid "quote"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:343
+msgid "grid"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:344
+msgid "calendar"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:347
+msgid "pinpoint"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:349
+msgid "navigate"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:350
+msgid "location"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:352
+msgid "lock combination"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:353
+msgid "locked"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:354
+msgid "unlocked"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:356
+msgid "arrow graph up right"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:357
+msgid "arrow graph down right"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:358
+msgid "arrow graph up left"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:359
+msgid "arrow graph down left"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:360
+msgid "stats bars"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:361
+msgid "connection bars"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:362
+msgid "pie graph"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:363
+msgid "chatbubble"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:364
+msgid "chatbubble working"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:365
+msgid "chatbubbles"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:366
+msgid "chatbox"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:367
+msgid "chatbox working"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:368
+msgid "chatboxes"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:369
+msgid "person"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:370
+msgid "person add"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:371
+msgid "person stalker"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:372
+msgid "woman"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:373
+msgid "man"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:376
+msgid "transgender"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:377
+msgid "fork"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:378
+msgid "knife"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:379
+msgid "spoon"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:380
+msgid "soup can outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:381
+msgid "soup can"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:382
+msgid "beer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:383
+msgid "wineglass"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:385
+msgid "icecream"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:386
+msgid "pizza"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:389
+msgid "battery full"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:390
+msgid "battery half"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:391
+msgid "battery low"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:392
+msgid "battery empty"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:393
+msgid "battery charging"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:394
+msgid "wifi"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:397
+msgid "camera"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:398
+msgid "eye"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:399
+msgid "eye disabled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:400
+msgid "flash"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:401
+msgid "flash off"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:402
+msgid "qr scanner"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:403
+msgid "image"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:404
+msgid "images"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:405
+msgid "wand"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:406
+msgid "contrast"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:407
+msgid "aperture"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:409
+msgid "easel"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:410
+msgid "paintbrush"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:411
+msgid "paintbucket"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:413
+msgid "laptop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:414
+msgid "ipad"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:415
+msgid "iphone"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:416
+msgid "ipod"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:417
+msgid "printer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:419
+msgid "outlet"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:420
+msgid "bug"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:421
+msgid "code"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:422
+msgid "code working"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:423
+msgid "code download"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:424
+msgid "fork repo"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:426
+msgid "pull request"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:427
+msgid "merge"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:428
+msgid "xbox"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:429
+msgid "playstation"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:430
+msgid "steam"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:431
+msgid "closed captioning"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:432
+msgid "videocamera"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:433
+msgid "film marker"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:434
+msgid "disc"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:435
+msgid "headphone"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:436
+msgid "music note"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:437
+msgid "radio waves"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:438
+msgid "speakerphone"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:439
+msgid "mic a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:440
+msgid "mic b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:441
+msgid "mic c"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:442
+msgid "volume high"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:443
+msgid "volume medium"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:444
+msgid "volume low"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:445
+msgid "volume mute"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:446
+msgid "levels"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:448
+msgid "pause"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:449
+msgid "stop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:450
+msgid "record"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:451
+msgid "skip forward"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:452
+msgid "skip backward"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:453
+msgid "eject"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:454
+msgid "bag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:455
+msgid "card"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:457
+msgid "pricetag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:458
+msgid "pricetags"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:459
+msgid "thumbsup"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:460
+msgid "thumbsdown"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:461
+msgid "happy outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:462
+msgid "happy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:463
+msgid "sad outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:464
+msgid "sad"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:465
+msgid "bowtie"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:466
+msgid "tshirt outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:467
+msgid "tshirt"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:468
+msgid "trophy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:469
+msgid "podium"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:470
+msgid "ribbon a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:471
+msgid "ribbon b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:472
+msgid "university"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:474
+msgid "beaker"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:475
+msgid "erlenmeyer flask"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:476, src/tm-organik/framework/class-fonticon.php:993
+msgid "egg"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:477
+msgid "earth"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:478
+msgid "planet"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:479
+msgid "lightbulb"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:480
+msgid "cube"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:482
+msgid "waterdrop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:483
+msgid "flame"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:484
+msgid "fireball"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:485
+msgid "bonfire"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:487
+msgid "nuclear"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:488
+msgid "no smoking"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:489
+msgid "thermometer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:490
+msgid "speedometer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:491
+msgid "model s"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:493
+msgid "jet"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:494
+msgid "load a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:495
+msgid "load b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:496
+msgid "load c"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:497
+msgid "load d"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:498
+msgid "ios ionic outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:499
+msgid "ios arrow back"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:500
+msgid "ios arrow forward"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:501
+msgid "ios arrow up"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:502
+msgid "ios arrow right"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:503
+msgid "ios arrow down"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:504
+msgid "ios arrow left"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:505
+msgid "ios arrow thin up"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:506
+msgid "ios arrow thin right"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:507
+msgid "ios arrow thin down"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:508
+msgid "ios arrow thin left"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:509
+msgid "ios circle filled"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:510
+msgid "ios circle outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:511
+msgid "ios checkmark empty"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:512
+msgid "ios checkmark outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:513
+msgid "ios checkmark"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:514
+msgid "ios plus empty"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:515
+msgid "ios plus outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:516
+msgid "ios plus"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:517
+msgid "ios close empty"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:518
+msgid "ios close outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:519
+msgid "ios close"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:520
+msgid "ios minus empty"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:521
+msgid "ios minus outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:522
+msgid "ios minus"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:523
+msgid "ios information empty"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:524
+msgid "ios information outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:525
+msgid "ios information"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:526
+msgid "ios help empty"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:527
+msgid "ios help outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:528
+msgid "ios help"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:529
+msgid "ios search"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:530
+msgid "ios search strong"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:531
+msgid "ios star"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:532
+msgid "ios star half"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:533
+msgid "ios star outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:534
+msgid "ios heart"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:535
+msgid "ios heart outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:536
+msgid "ios more"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:537
+msgid "ios more outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:538
+msgid "ios home"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:539
+msgid "ios home outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:540
+msgid "ios cloud"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:541
+msgid "ios cloud outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:542
+msgid "ios cloud upload"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:543
+msgid "ios cloud upload outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:544
+msgid "ios cloud download"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:545
+msgid "ios cloud download outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:546
+msgid "ios upload"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:547
+msgid "ios upload outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:548
+msgid "ios download"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:549
+msgid "ios download outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:550
+msgid "ios refresh"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:551
+msgid "ios refresh outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:552
+msgid "ios refresh empty"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:553
+msgid "ios reload"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:554
+msgid "ios loop strong"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:555
+msgid "ios loop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:556
+msgid "ios bookmarks"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:557
+msgid "ios bookmarks outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:558
+msgid "ios book"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:559
+msgid "ios book outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:560
+msgid "ios flag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:561
+msgid "ios flag outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:562
+msgid "ios glasses"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:563
+msgid "ios glasses outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:564
+msgid "ios browsers"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:565
+msgid "ios browsers outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:566
+msgid "ios at"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:567
+msgid "ios at outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:568
+msgid "ios pricetag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:569
+msgid "ios pricetag outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:570
+msgid "ios pricetags"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:571
+msgid "ios pricetags outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:572
+msgid "ios cart"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:573
+msgid "ios cart outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:574
+msgid "ios chatboxes"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:575
+msgid "ios chatboxes outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:576
+msgid "ios chatbubble"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:577
+msgid "ios chatbubble outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:578
+msgid "ios cog"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:579
+msgid "ios cog outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:580
+msgid "ios gear"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:581
+msgid "ios gear outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:582
+msgid "ios settings"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:583
+msgid "ios settings strong"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:584
+msgid "ios toggle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:585
+msgid "ios toggle outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:586
+msgid "ios analytics"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:587
+msgid "ios analytics outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:588
+msgid "ios pie"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:589
+msgid "ios pie outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:590
+msgid "ios pulse"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:591
+msgid "ios pulse strong"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:592
+msgid "ios filing"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:593
+msgid "ios filing outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:594
+msgid "ios box"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:595
+msgid "ios box outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:596
+msgid "ios compose"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:597
+msgid "ios compose outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:598
+msgid "ios trash"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:599
+msgid "ios trash outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:600
+msgid "ios copy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:601
+msgid "ios copy outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:602
+msgid "ios email"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:603
+msgid "ios email outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:604
+msgid "ios undo"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:605
+msgid "ios undo outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:606
+msgid "ios redo"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:607
+msgid "ios redo outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:608
+msgid "ios paperplane"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:609
+msgid "ios paperplane outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:610
+msgid "ios folder"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:611
+msgid "ios folder outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:612
+msgid "ios paper"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:613
+msgid "ios paper outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:614
+msgid "ios list"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:615
+msgid "ios list outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:616
+msgid "ios world"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:617
+msgid "ios world outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:618
+msgid "ios alarm"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:619
+msgid "ios alarm outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:620
+msgid "ios speedometer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:621
+msgid "ios speedometer outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:622
+msgid "ios stopwatch"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:623
+msgid "ios stopwatch outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:624
+msgid "ios timer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:625
+msgid "ios timer outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:626
+msgid "ios clock"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:627
+msgid "ios clock outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:628
+msgid "ios time"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:629
+msgid "ios time outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:630
+msgid "ios calendar"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:631
+msgid "ios calendar outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:632
+msgid "ios photos"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:633
+msgid "ios photos outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:634
+msgid "ios albums"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:635
+msgid "ios albums outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:636
+msgid "ios camera"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:637
+msgid "ios camera outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:638
+msgid "ios reverse camera"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:639
+msgid "ios reverse camera outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:640
+msgid "ios eye"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:641
+msgid "ios eye outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:642
+msgid "ios bolt"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:643
+msgid "ios bolt outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:644
+msgid "ios color wand"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:645
+msgid "ios color wand outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:646
+msgid "ios color filter"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:647
+msgid "ios color filter outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:648
+msgid "ios grid view"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:649
+msgid "ios grid view outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:650
+msgid "ios crop strong"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:651
+msgid "ios crop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:652
+msgid "ios barcode"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:653
+msgid "ios barcode outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:654
+msgid "ios briefcase"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:655
+msgid "ios briefcase outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:656
+msgid "ios medkit"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:657
+msgid "ios medkit outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:658
+msgid "ios medical"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:659
+msgid "ios medical outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:660
+msgid "ios infinite"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:661
+msgid "ios infinite outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:662
+msgid "ios calculator"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:663
+msgid "ios calculator outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:664
+msgid "ios keypad"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:665
+msgid "ios keypad outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:666
+msgid "ios telephone"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:667
+msgid "ios telephone outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:668
+msgid "ios drag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:669
+msgid "ios location"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:670
+msgid "ios location outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:671
+msgid "ios navigate"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:672
+msgid "ios navigate outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:673
+msgid "ios locked"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:674
+msgid "ios locked outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:675
+msgid "ios unlocked"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:676
+msgid "ios unlocked outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:677
+msgid "ios monitor"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:678
+msgid "ios monitor outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:679
+msgid "ios printer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:680
+msgid "ios printer outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:681
+msgid "ios game controller a"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:682
+msgid "ios game controller a outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:683
+msgid "ios game controller b"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:684
+msgid "ios game controller b outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:685
+msgid "ios americanfootball"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:686
+msgid "ios americanfootball outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:687
+msgid "ios baseball"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:688
+msgid "ios baseball outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:689
+msgid "ios basketball"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:690
+msgid "ios basketball outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:691
+msgid "ios tennisball"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:692
+msgid "ios tennisball outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:693
+msgid "ios football"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:694
+msgid "ios football outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:695
+msgid "ios body"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:696
+msgid "ios body outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:697
+msgid "ios person"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:698
+msgid "ios person outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:699
+msgid "ios personadd"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:700
+msgid "ios personadd outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:701
+msgid "ios people"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:702
+msgid "ios people outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:703
+msgid "ios musical notes"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:704
+msgid "ios musical note"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:705
+msgid "ios bell"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:706
+msgid "ios bell outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:707
+msgid "ios mic"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:708
+msgid "ios mic outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:709
+msgid "ios mic off"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:710
+msgid "ios volume high"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:711
+msgid "ios volume low"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:712
+msgid "ios play"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:713
+msgid "ios play outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:714
+msgid "ios pause"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:715
+msgid "ios pause outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:716
+msgid "ios recording"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:717
+msgid "ios recording outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:718
+msgid "ios fastforward"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:719
+msgid "ios fastforward outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:720
+msgid "ios rewind"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:721
+msgid "ios rewind outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:722
+msgid "ios skipbackward"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:723
+msgid "ios skipbackward outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:724
+msgid "ios skipforward"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:725
+msgid "ios skipforward outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:726
+msgid "ios shuffle strong"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:727
+msgid "ios shuffle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:728
+msgid "ios videocam"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:729
+msgid "ios videocam outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:730
+msgid "ios film"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:731
+msgid "ios film outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:732
+msgid "ios flask"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:733
+msgid "ios flask outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:734
+msgid "ios lightbulb"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:735
+msgid "ios lightbulb outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:736
+msgid "ios wineglass"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:737
+msgid "ios wineglass outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:738
+msgid "ios pint"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:739
+msgid "ios pint outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:740
+msgid "ios nutrition"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:741
+msgid "ios nutrition outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:742
+msgid "ios flower"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:743
+msgid "ios flower outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:744
+msgid "ios rose"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:745
+msgid "ios rose outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:746
+msgid "ios paw"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:747
+msgid "ios paw outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:748
+msgid "ios flame"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:749
+msgid "ios flame outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:750
+msgid "ios sunny"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:751
+msgid "ios sunny outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:752
+msgid "ios partlysunny"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:753
+msgid "ios partlysunny outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:754
+msgid "ios cloudy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:755
+msgid "ios cloudy outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:756
+msgid "ios rainy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:757
+msgid "ios rainy outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:758
+msgid "ios thunderstorm"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:759
+msgid "ios thunderstorm outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:760
+msgid "ios snowy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:761
+msgid "ios moon"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:762
+msgid "ios moon outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:763
+msgid "ios cloudy night"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:764
+msgid "ios cloudy night outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:765
+msgid "android arrow up"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:766
+msgid "android arrow forward"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:767
+msgid "android arrow down"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:768
+msgid "android arrow back"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:769
+msgid "android arrow dropup"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:770
+msgid "android arrow dropup circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:771
+msgid "android arrow dropright"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:772
+msgid "android arrow dropright circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:773
+msgid "android arrow dropdown"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:774
+msgid "android arrow dropdown circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:775
+msgid "android arrow dropleft"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:776
+msgid "android arrow dropleft circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:777
+msgid "android add"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:778
+msgid "android add circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:779
+msgid "android remove"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:780
+msgid "android remove circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:781
+msgid "android close"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:782
+msgid "android cancel"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:783
+msgid "android radio button off"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:784
+msgid "android radio button on"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:785
+msgid "android checkmark circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:786
+msgid "android checkbox outline blank"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:787
+msgid "android checkbox outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:788
+msgid "android checkbox blank"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:789
+msgid "android checkbox"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:790
+msgid "android done"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:791
+msgid "android done all"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:792
+msgid "android menu"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:793
+msgid "android more horizontal"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:794
+msgid "android more vertical"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:795
+msgid "android refresh"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:796
+msgid "android sync"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:797
+msgid "android wifi"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:798
+msgid "android call"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:799
+msgid "android apps"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:800
+msgid "android settings"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:801
+msgid "android options"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:802
+msgid "android funnel"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:803
+msgid "android search"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:804
+msgid "android home"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:805
+msgid "android cloud outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:806
+msgid "android cloud"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:807
+msgid "android download"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:808
+msgid "android upload"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:809
+msgid "android cloud done"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:810
+msgid "android cloud circle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:811
+msgid "android favorite outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:812
+msgid "android favorite"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:813
+msgid "android star outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:814
+msgid "android star half"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:815
+msgid "android star"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:816
+msgid "android calendar"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:817
+msgid "android alarm clock"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:818
+msgid "android time"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:819
+msgid "android stopwatch"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:820
+msgid "android watch"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:821
+msgid "android locate"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:822
+msgid "android navigate"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:823
+msgid "android pin"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:824
+msgid "android compass"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:825
+msgid "android map"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:826
+msgid "android walk"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:827
+msgid "android bicycle"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:828
+msgid "android car"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:829
+msgid "android bus"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:830
+msgid "android subway"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:831
+msgid "android train"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:832
+msgid "android boat"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:833
+msgid "android plane"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:834
+msgid "android restaurant"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:835
+msgid "android bar"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:836
+msgid "android cart"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:837
+msgid "android camera"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:838
+msgid "android image"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:839
+msgid "android film"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:840
+msgid "android color palette"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:841
+msgid "android create"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:842
+msgid "android mail"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:843
+msgid "android drafts"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:844
+msgid "android send"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:845
+msgid "android archive"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:846
+msgid "android delete"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:847
+msgid "android attach"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:848
+msgid "android share"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:849
+msgid "android share alt"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:850
+msgid "android bookmark"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:851
+msgid "android document"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:852
+msgid "android clipboard"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:853
+msgid "android list"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:854
+msgid "android folder open"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:855
+msgid "android folder"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:856
+msgid "android print"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:857
+msgid "android open"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:858
+msgid "android exit"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:859
+msgid "android contract"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:860
+msgid "android expand"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:861
+msgid "android globe"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:862
+msgid "android chat"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:863
+msgid "android textsms"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:864
+msgid "android hangout"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:865
+msgid "android happy"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:866
+msgid "android sad"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:867
+msgid "android person"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:868
+msgid "android people"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:869
+msgid "android person add"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:870
+msgid "android contact"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:871
+msgid "android contacts"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:872
+msgid "android playstore"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:873
+msgid "android lock"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:874
+msgid "android unlock"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:875
+msgid "android microphone"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:876
+msgid "android microphone off"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:877
+msgid "android notifications none"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:878
+msgid "android notifications"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:879
+msgid "android notifications off"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:880
+msgid "android volume mute"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:881
+msgid "android volume down"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:882
+msgid "android volume up"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:883
+msgid "android volume off"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:884
+msgid "android hand"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:885
+msgid "android desktop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:886
+msgid "android laptop"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:887
+msgid "android phone portrait"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:888
+msgid "android phone landscape"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:889
+msgid "android bulb"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:890
+msgid "android sunny"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:891
+msgid "android alert"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:892
+msgid "android warning"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:893
+msgid "social twitter"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:894
+msgid "social twitter outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:895
+msgid "social facebook"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:896
+msgid "social facebook outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:897
+msgid "social googleplus"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:898
+msgid "social googleplus outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:899
+msgid "social google"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:900
+msgid "social google outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:901
+msgid "social dribbble"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:902
+msgid "social dribbble outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:903
+msgid "social octocat"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:904
+msgid "social github"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:905
+msgid "social github outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:906
+msgid "social instagram"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:907
+msgid "social instagram outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:908
+msgid "social whatsapp"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:909
+msgid "social whatsapp outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:910
+msgid "social snapchat"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:911
+msgid "social snapchat outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:912
+msgid "social foursquare"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:913
+msgid "social foursquare outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:914
+msgid "social pinterest"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:915
+msgid "social pinterest outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:916
+msgid "social rss"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:917
+msgid "social rss outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:918
+msgid "social tumblr"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:919
+msgid "social tumblr outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:920
+msgid "social wordpress"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:921
+msgid "social wordpress outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:922
+msgid "social reddit"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:923
+msgid "social reddit outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:924
+msgid "social hackernews"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:925
+msgid "social hackernews outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:926
+msgid "social designernews"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:927
+msgid "social designernews outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:928
+msgid "social yahoo"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:929
+msgid "social yahoo outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:930
+msgid "social buffer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:931
+msgid "social buffer outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:932
+msgid "social skype"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:933
+msgid "social skype outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:934
+msgid "social linkedin"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:935
+msgid "social linkedin outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:936
+msgid "social vimeo"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:937
+msgid "social vimeo outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:938
+msgid "social twitch"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:939
+msgid "social twitch outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:940
+msgid "social youtube"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:941
+msgid "social youtube outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:942
+msgid "social dropbox"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:943
+msgid "social dropbox outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:944
+msgid "social apple"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:945
+msgid "social apple outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:946
+msgid "social android"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:947
+msgid "social android outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:948
+msgid "social windows"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:949
+msgid "social windows outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:950
+msgid "social html5"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:951
+msgid "social html5 outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:952
+msgid "social css3"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:953
+msgid "social css3 outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:954
+msgid "social javascript"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:955
+msgid "social javascript outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:956
+msgid "social angular"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:957
+msgid "social angular outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:958
+msgid "social nodejs"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:959
+msgid "social sass"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:960
+msgid "social python"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:961
+msgid "social chrome"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:962
+msgid "social chrome outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:963
+msgid "social codepen"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:964
+msgid "social codepen outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:965
+msgid "social markdown"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:966
+msgid "social tux"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:967
+msgid "social freebsd devil"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:968
+msgid "social usd"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:969
+msgid "social usd outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:970
+msgid "social bitcoin"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:971
+msgid "social bitcoin outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:972
+msgid "social yen"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:973
+msgid "social yen outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:974
+msgid "social euro"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:975
+msgid "social euro outline"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:983
+msgid "apple"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:984
+msgid "banana"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:985
+msgid "basket"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:986
+msgid "blender"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:987
+msgid "bread"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:988
+msgid "broccoli"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:989
+msgid "carrot"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:990
+msgid "coconut"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:991
+msgid "corn"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:992
+msgid "cucumber"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:994
+msgid "eggplant"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:995
+msgid "ekobag"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:996
+msgid "grain"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:997
+msgid "grape"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:998
+msgid "honey"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:999
+msgid "jam"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1001
+msgid "leaves"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1002
+msgid "lemon"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1003
+msgid "lettuce"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1004
+msgid "milk"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1005
+msgid "mushrooms"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1006
+msgid "onion"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1007
+msgid "pear"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1008
+msgid "pepper"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1009
+msgid "radish"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1010
+msgid "smoothie"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1011
+msgid "squeezer"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1012
+msgid "tomato"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1013
+msgid "watermelon"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1014
+msgid "hours support"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1015
+msgid "barn"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1016
+msgid "credit card"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1017
+msgid "delivery"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1018
+msgid "map location"
+msgstr ""
+
+#: src/tm-organik/framework/class-fonticon.php:1019
+msgid "path footer"
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:51, src/tm-organik/framework/class-funtions.php:136
+msgid "Title background color"
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:56, src/tm-organik/framework/class-funtions.php:142
+msgid "Title background image"
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:63, src/tm-organik/framework/class-funtions.php:151
+msgid "Upload/Add image"
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:65, src/tm-organik/framework/class-funtions.php:153
+msgid "Remove image"
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:83, src/tm-organik/framework/class-funtions.php:171
+msgid "Choose an image"
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:85, src/tm-organik/framework/class-funtions.php:173
+msgid "Use image"
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:224
+msgid "<strong>For only $59</strong>, you get Organik package with <strong>12+</strong> different ecommerce designs."
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:228
+msgid "ONLY"
+msgstr ""
+
+#: src/tm-organik/framework/class-funtions.php:229
+msgid "$59"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:41
+msgid "Default Menu"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:55, src/tm-organik/framework/class-helper.php:263, src/tm-organik/framework/class-metabox.php:52, src/tm-organik/framework/class-metabox.php:137, src/tm-organik/vc-extend/vc-maps/insight_accordion.php:33, src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:91, src/tm-organik/vc-extend/vc-maps/insight_title.php:56, src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:8, src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:40
+msgid "Default"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:194, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:115, src/tm-organik/vc-extend/vc-maps/insight_icon.php:106
+msgid "Custom Class CSS"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:201, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:120, src/tm-organik/vc-extend/vc-maps/insight_icon.php:111
+msgid "Css"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:209, src/tm-organik/framework/class-metabox.php:106, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:84, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:30, src/tm-organik/vc-extend/vc-maps/insight_process.php:83, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:19
+msgid "Title"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:281, src/tm-organik/framework/class-helper.php:301, src/tm-organik/framework/class-helper.php:319, src/tm-organik/framework/class-helper.php:337, src/tm-organik/framework/class-helper.php:354, src/tm-organik/framework/class-helper.php:372, src/tm-organik/framework/class-helper.php:390
+msgid "Icon"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:294, src/tm-organik/framework/class-helper.php:313, src/tm-organik/framework/class-helper.php:331, src/tm-organik/framework/class-helper.php:366, src/tm-organik/framework/class-helper.php:384, src/tm-organik/framework/class-helper.php:402
+msgid "Select icon from library."
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:437, src/tm-organik/framework/class-helper.php:502, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:54
+msgid "Categories"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:461
+msgid "Select category"
+msgstr ""
+
+#: src/tm-organik/framework/class-helper.php:470, src/tm-organik/framework/class-helper.php:480, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:34, src/tm-organik/woocommerce/single-product/meta.php:51
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-organik/framework/class-helper.php:473, src/tm-organik/framework/class-helper.php:483
+msgid "Product category list"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:141
+msgid "Primary"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:142
+msgid "Top"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:257
+msgid "Sidebar"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:258, src/tm-organik/framework/class-init.php:280, src/tm-organik/framework/class-init.php:290, src/tm-organik/framework/class-init.php:300, src/tm-organik/framework/class-init.php:310, src/tm-organik/framework/class-init.php:320
+msgid "Add widgets here."
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:267
+msgid "Sidebar for Shop"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:269
+msgid "Sidebar for all shop pages"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:279
+msgid "Header 01 Left"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:289
+msgid "Footer Column 01"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:299
+msgid "Footer Column 02"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:309
+msgid "Footer Column 03"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:319
+msgid "Footer Column 04"
+msgstr ""
+
+#: src/tm-organik/framework/class-init.php:338
+msgid "My Cart"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:34
+msgid "Page Options"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:49
+msgid "Page layout"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:53
+msgid "Fullwidth"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:54
+msgid "Content - Sidebar"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:55
+msgid "Sidebar - Content"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:61
+msgid "Padding Top & Bottom"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:62
+msgid "If choose yes, the page content will have the padding top & bottom is 60px"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:65, src/tm-organik/framework/class-metabox.php:100, src/tm-organik/vc-extend/vc-maps/insight_about.php:33, src/tm-organik/vc-extend/vc-maps/insight_about2.php:57, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:33, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:67, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:81, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:65, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:74, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:83, src/tm-organik/vc-extend/vc-maps/insight_team_member.php:63, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:33, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:42, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:52, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:62, src/tm-organik/vc-extend/vc-maps/insight_title.php:27, src/tm-organik/vc-extend/vc-maps/insight_title.php:47, src/tm-organik/vc-extend/vc-params/toggle.php:13
+msgid "No"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:66, src/tm-organik/framework/class-metabox.php:99, src/tm-organik/vc-extend/vc-maps/insight_about.php:32, src/tm-organik/vc-extend/vc-maps/insight_about2.php:56, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:32, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:66, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:80, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:64, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:73, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:84, src/tm-organik/vc-extend/vc-maps/insight_team_member.php:62, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:32, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:41, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:51, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:61, src/tm-organik/vc-extend/vc-maps/insight_title.php:26, src/tm-organik/vc-extend/vc-maps/insight_title.php:46, src/tm-organik/vc-extend/vc-params/toggle.php:12
+msgid "Yes"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:72
+msgid "Body class"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:83
+msgid "Primary menu"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:90
+msgid "Custom logo"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:96
+msgid "Overlay Header"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:115, src/tm-organik/framework/class-metabox.php:138
+msgid "Visible"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:116, src/tm-organik/framework/class-metabox.php:139
+msgid "Hidden"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:122
+msgid "Custom title"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:145
+msgid "Sidebars"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:151
+msgid "Page sidebar"
+msgstr ""
+
+#: src/tm-organik/framework/class-metabox.php:152
+msgid "Choose a custom sidebar for your page"
+msgstr ""
+
+#: src/tm-organik/framework/class-plugins.php:30
+msgid "Visual Composer"
+msgstr ""
+
+#: src/tm-organik/framework/class-plugins.php:37
+msgid "Revolution Slider"
+msgstr ""
+
+#: src/tm-organik/framework/class-plugins.php:44
+msgid "WooCommerce"
+msgstr ""
+
+#: src/tm-organik/framework/class-plugins.php:49
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: src/tm-organik/framework/class-plugins.php:54
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: src/tm-organik/framework/class-plugins.php:59
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: src/tm-organik/framework/class-plugins.php:64
+msgid "Contact Form 7"
+msgstr ""
+
+#: src/tm-organik/framework/class-static.php:97
+msgid "Could not load theme file: "
+msgstr ""
+
+#: src/tm-organik/framework/class-static.php:114
+msgid "Could not load pattern: "
+msgstr ""
+
+#: src/tm-organik/framework/class-static.php:390
+msgid "Search results for: "
+msgstr ""
+
+#: src/tm-organik/framework/class-static.php:486, src/tm-organik/framework/class-static.php:545
+msgid "Previous"
+msgstr ""
+
+#: src/tm-organik/framework/class-static.php:487, src/tm-organik/framework/class-static.php:546
+msgid "Next"
+msgstr ""
+
+#: src/tm-organik/framework/class-templates.php:28, src/tm-organik/framework/class-templates.php:45
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: src/tm-organik/framework/class-templates.php:30
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: src/tm-organik/framework/class-templates.php:32
+msgid ", "
+msgstr ""
+
+#: src/tm-organik/framework/class-templates.php:57
+msgid " "
+msgstr ""
+
+#: src/tm-organik/framework/class-templates.php:92
+msgid "Leave a comment"
+msgstr ""
+
+#: src/tm-organik/framework/class-templates.php:92
+msgid "1 Comment"
+msgstr ""
+
+#: src/tm-organik/framework/class-templates.php:92
+msgid "% Comments"
+msgstr ""
+
+#: src/tm-organik/framework/class-widget.php:16
+msgid "[Insight] Posts"
+msgstr ""
+
+#: src/tm-organik/framework/class-widget.php:117, src/tm-organik/framework/class-widget.php:231
+msgid "New title"
+msgstr ""
+
+#: src/tm-organik/framework/class-widget.php:132, src/tm-organik/framework/class-widget.php:236
+msgid "Title:"
+msgstr ""
+
+#: src/tm-organik/framework/class-widget.php:139
+msgid "Category:"
+msgstr ""
+
+#: src/tm-organik/framework/class-widget.php:161
+msgid "Category: "
+msgstr ""
+
+#: src/tm-organik/framework/class-widget.php:169
+msgid "Number:"
+msgstr ""
+
+#: src/tm-organik/framework/class-widget.php:194
+msgid "[Insight] Categories"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about.php:8, src/tm-organik/vc-extend/vc-maps/insight_about2.php:8, src/tm-organik/vc-extend/vc-maps/insight_about3.php:8, src/tm-organik/vc-extend/vc-maps/insight_blog.php:8, src/tm-organik/vc-extend/vc-maps/insight_button.php:8, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:8, src/tm-organik/vc-extend/vc-maps/insight_featured_category.php:8, src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:8, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:8, src/tm-organik/vc-extend/vc-maps/insight_icon.php:8, src/tm-organik/vc-extend/vc-maps/insight_process.php:8, src/tm-organik/vc-extend/vc-maps/insight_team_member.php:25, src/tm-organik/vc-extend/vc-maps/insight_title.php:8
+msgid "Design options"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about.php:11
+msgid "[Insight] About"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about.php:13, src/tm-organik/vc-extend/vc-maps/insight_about2.php:13, src/tm-organik/vc-extend/vc-maps/insight_about3.php:13, src/tm-organik/vc-extend/vc-maps/insight_accordion.php:9, src/tm-organik/vc-extend/vc-maps/insight_blog.php:13, src/tm-organik/vc-extend/vc-maps/insight_button.php:13, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:13, src/tm-organik/vc-extend/vc-maps/insight_featured_category.php:13, src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:14, src/tm-organik/vc-extend/vc-maps/insight_gallery.php:13, src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:18, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:13, src/tm-organik/vc-extend/vc-maps/insight_icon.php:13, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:9, src/tm-organik/vc-extend/vc-maps/insight_process.php:13, src/tm-organik/vc-extend/vc-maps/insight_product_carousel.php:13, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:13, src/tm-organik/vc-extend/vc-maps/insight_product_grid.php:13, src/tm-organik/vc-extend/vc-maps/insight_team_member.php:32, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:9, src/tm-organik/vc-extend/vc-maps/insight_title.php:13, src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:59
+msgid "by %s"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about.php:26, src/tm-organik/vc-extend/vc-maps/insight_about2.php:50
+msgid "Custom size"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about.php:39, src/tm-organik/vc-extend/vc-maps/insight_about2.php:63, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:39, src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:51
+msgid "Width"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about.php:49, src/tm-organik/vc-extend/vc-maps/insight_about2.php:73, src/tm-organik/vc-extend/vc-maps/insight_carousel.php:49, src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:44
+msgid "Height"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about2.php:11
+msgid "[Insight] About 2"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about3.php:11
+msgid "[Insight] About 3"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about3.php:39, src/tm-organik/vc-extend/vc-maps/insight_product_carousel.php:20, src/tm-organik/vc-extend/vc-maps/insight_title.php:33
+msgid "Sub Title"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about3.php:46
+msgid "Quote text"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_about3.php:53
+msgid "Quote author"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:7
+msgid "[Insight] Accordion"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:15
+msgid "Icon Position"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:18
+msgid "Right"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:19
+msgid "Left"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:20, src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:18, src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:27
+msgid "None"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:25
+msgid "Accordions"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:30
+msgid "Icon type"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:34, src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:103, src/tm-organik/vc-extend/vc-params/gradient.php:42
+msgid "Custom"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:39, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:52, src/tm-organik/vc-extend/vc-maps/insight_icon.php:31, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:14, src/tm-organik/vc-extend/vc-maps/insight_process.php:51
+msgid "Icon library"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:42, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:55, src/tm-organik/vc-extend/vc-maps/insight_icon.php:34, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:18, src/tm-organik/vc-extend/vc-maps/insight_process.php:54
+msgid "Font Awesome"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:43, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:60, src/tm-organik/vc-extend/vc-maps/insight_icon.php:39, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:19, src/tm-organik/vc-extend/vc-maps/insight_process.php:59
+msgid "Ionicons"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:47, src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:65, src/tm-organik/vc-extend/vc-maps/insight_icon.php:44, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:23, src/tm-organik/vc-extend/vc-maps/insight_process.php:64
+msgid "Select icon library."
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_accordion.php:54, src/tm-organik/vc-extend/vc-maps/insight_team_member.php:45, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:88, src/tm-organik/woocommerce/single-product-reviews.php:74
+msgid "Name"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_blog.php:11
+msgid "[Insight] Blog"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_blog.php:77, src/tm-organik/vc-extend/vc-maps/insight_gallery.php:67, src/tm-organik/vc-extend/vc-maps/insight_product_carousel.php:75, src/tm-organik/vc-extend/vc-maps/insight_product_grid.php:68
+msgid "Number"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_blog.php:80
+msgid "Number of post (0 is all)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_blog.php:84
+msgid "Excerpt length"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_blog.php:88
+msgid "words(s)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_button.php:11
+msgid "[Insight] Button"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_carousel.php:11
+msgid "[Insight] Carousel"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_carousel.php:26
+msgid "Custom image size"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_carousel.php:60
+msgid "Auto play"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_carousel.php:74
+msgid "Show dots"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_carousel.php:88
+msgid "Slides per row"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_category.php:11
+msgid "[Insight] Featured Category"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:9
+msgid "Label options"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:12
+msgid "[Insight] Featured Product Box"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:69
+msgid "Title 1"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:75
+msgid "Title 2"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:81
+msgid "Title 3"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:92
+msgid "Button"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:100, src/tm-organik/vc-extend/vc-params/datetime_picker.php:8
+msgid "Target Time For Countdown"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:103, src/tm-organik/vc-extend/vc-params/datetime_picker.php:11
+msgid "Date and time format (yyyy/mm/dd hh:mm)."
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_featured_product.php:111, src/tm-organik/vc-extend/vc-maps/insight_product_column.php:52
+msgid "Price"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gallery.php:11
+msgid "[Insight] Gallery"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gallery.php:70
+msgid "Number of image(s) per page"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gallery.php:74
+msgid "Image Width"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gallery.php:78, src/tm-organik/vc-extend/vc-maps/insight_gallery.php:86
+msgid "px"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gallery.php:82
+msgid "Image Height"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:16
+msgid "[Insight] Google Maps"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:19
+msgid "Map block"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:24
+msgid "Address or Coordinate"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:28
+msgid "Enter address or coordinate."
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:32
+msgid "Marker icon"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:34
+msgid "Choose a image for marker address"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:38
+msgid "Marker Information"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:40
+msgid "Content for info window"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:47
+msgid "Enter map height (in pixels or percentage)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:54
+msgid "Enter map width (in pixels or percentage)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:58
+msgid "Zoom level"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:61
+msgid "Map zoom level"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:65
+msgid "Enable Map zoom"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:73
+msgid "Map type"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:76
+msgid "Choose a map type"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:78
+msgid "Roadmap"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:79
+msgid "Satellite"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:80
+msgid "Hybrid"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:81
+msgid "Terrain"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:86
+msgid "Map style"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:89
+msgid "Choose a map style. This approach changes the style of the Roadmap types (base imagery in terrain and satellite views is not affected, but roads, labels, etc. respect styling rules"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:92
+msgid "Grayscale"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:93
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:94
+msgid "Apple Maps-esque"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:95
+msgid "Pale Dawn"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:96
+msgid "Muted Blue"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:97
+msgid "Paper"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:98
+msgid "Light Dream"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:99
+msgid "Retro"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:100
+msgid "Avocado World"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:101
+msgid "Facebook"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:102
+msgid "Shades of Grey"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:108
+msgid "Map style snippet"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:117
+msgid "Extra class name"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_gmaps.php:119
+msgid "If you want to use multiple Google Maps in one page, please add a class name for them."
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:11
+msgid "[Insight] Icon Boxes"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:56, src/tm-organik/vc-extend/vc-maps/insight_icon.php:35, src/tm-organik/vc-extend/vc-maps/insight_process.php:55
+msgid "Open Iconic"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:57, src/tm-organik/vc-extend/vc-maps/insight_icon.php:36, src/tm-organik/vc-extend/vc-maps/insight_process.php:56
+msgid "Typicons"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:58, src/tm-organik/vc-extend/vc-maps/insight_icon.php:37, src/tm-organik/vc-extend/vc-maps/insight_process.php:57
+msgid "Entypo"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:59, src/tm-organik/vc-extend/vc-maps/insight_icon.php:38, src/tm-organik/vc-extend/vc-maps/insight_process.php:58
+msgid "Linecons"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_icon_boxes.php:61, src/tm-organik/vc-extend/vc-maps/insight_icon.php:40, src/tm-organik/vc-extend/vc-maps/insight_our_services.php:17, src/tm-organik/vc-extend/vc-maps/insight_process.php:60
+msgid "Organik"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_icon.php:11
+msgid "[Insight] Icon"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_our_services.php:7
+msgid "[Insight] Our Services"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_process.php:11
+msgid "[Insight] Process"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_carousel.php:11
+msgid "[Insight] Product Carousel"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_carousel.php:45
+msgid "Slides to show"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_carousel.php:78
+msgid "Number of product on carousel (0 is all)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:11
+msgid "[Insight] Product Column"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:25
+msgid "Product Type"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:29
+msgid "Recent"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:30
+msgid "Best seller"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:31
+msgid "Top rate"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:32
+msgid "Featured"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:33
+msgid "On sale"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:43
+msgid "Number Products"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:49
+msgid "Show on each product"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:53
+msgid "Rating stars"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:57
+msgid "Choose what do you want to show"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:61, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:29
+msgid "Enable Carousel"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:70, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:48
+msgid "Show Arrows"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:80, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:58
+msgid "Enable Autoplay"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_column.php:90, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:68
+msgid "Slides to display"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_grid.php:11
+msgid "[Insight] Product Grid"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_grid.php:37
+msgid "Columns"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_product_grid.php:71
+msgid "Number of product on grid (-1 is all)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_team_member.php:26
+msgid "Social"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_team_member.php:30
+msgid "[Insight] Team Member"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_team_member.php:41
+msgid "Select an image from media library."
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_team_member.php:51
+msgid "Biography"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_team_member.php:56
+msgid "Open links in new tab"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:7
+msgid "[Insight] Testimonials"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:19
+msgid "Style 01"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:20
+msgid "Style 01 (white background)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:21
+msgid "Style 01 (gray background)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:22
+msgid "Style 02"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:23
+msgid "Style 02 (white background)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:24
+msgid "Style 02 (gray background)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:38
+msgid "Show Bullets"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:71
+msgid "Just for Style 02. Number of slides to display (default: 1)"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:76
+msgid "Testimonials"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:81, src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:84
+msgid "Photo"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_testimonial.php:95
+msgid "Tagline"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_title.php:11
+msgid "[Insight] Title"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_title.php:20
+msgid "Sub title enable"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_title.php:40
+msgid "Separator enable"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/insight_title.php:57
+msgid "Solid color"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:5
+msgid "Select Color"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:15
+msgid "Special style"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:19
+msgid "Page title style"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:24
+msgid "Text Transform"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:28
+msgid "Capitalize"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:29
+msgid "Uppercase"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:30
+msgid "Lowercase"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:31
+msgid "Initial"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:32
+msgid "Inherit"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:37
+msgid "Font Weight"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:54
+msgid "Letter Spacing"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-maps/vc_custom_heading.php:60
+msgid "[Insight] Custom Heading"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-params/gradient.php:7
+msgid "Gradient Type"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-params/gradient.php:9
+msgid "At least two color points should be selected."
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-params/gradient.php:40
+msgid "Vertical"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-params/gradient.php:41
+msgid "Horizontal"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-params/gradient.php:45
+msgid "Choose Colors"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-params/number.php:12
+msgid "Number field"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-params/social-links.php:106
+msgid "Social Network"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-params/toggle.php:6
+msgid "Test toggle"
+msgstr ""
+
+#: src/tm-organik/vc-extend/vc-templates/insight_gallery.php:42
+msgid "All"
+msgstr ""
+
+#: src/tm-organik/woocommerce/add-to-wishlist.php:21, src/tm-organik/woocommerce/add-to-wishlist.php:51
+msgid "Add to wishlist"
+msgstr ""
+
+#: src/tm-organik/woocommerce/add-to-wishlist.php:26, src/tm-organik/woocommerce/add-to-wishlist.php:36
+msgid "Browse wishlist"
+msgstr ""
+
+#: src/tm-organik/woocommerce/compare.php:819
+msgid "Close window [X]"
+msgstr ""
+
+#: src/tm-organik/woocommerce/compare.php:875
+msgid "No products added in the compare table."
+msgstr ""
+
+#: src/tm-organik/woocommerce/compare.php:893
+msgid "Remove"
+msgstr ""
+
+#: src/tm-organik/woocommerce/content-product-02.php:81, src/tm-organik/woocommerce/content-product.php:56
+msgid "(Based on %s review)"
+msgid_plural "(Based on %s reviews)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-organik/woocommerce/global/quantity-input.php:28
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: src/tm-organik/woocommerce/loop/orderby.php:29
+msgid "List"
+msgstr ""
+
+#: src/tm-organik/woocommerce/loop/orderby.php:33
+msgid "Grid"
+msgstr ""
+
+#: src/tm-organik/woocommerce/loop/result-count.php:41
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-organik/woocommerce/loop/result-count.php:43
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-organik/woocommerce/loop/sale-flash.php:26, src/tm-organik/woocommerce/single-product/sale-flash.php:26
+msgid "Out"
+msgstr ""
+
+#: src/tm-organik/woocommerce/loop/sale-flash.php:26, src/tm-organik/woocommerce/single-product/sale-flash.php:26
+msgid "of stock"
+msgstr ""
+
+#: src/tm-organik/woocommerce/loop/sale-flash.php:32, src/tm-organik/woocommerce/single-product/sale-flash.php:32
+msgid "Hot"
+msgstr ""
+
+#: src/tm-organik/woocommerce/loop/sale-flash.php:36, src/tm-organik/woocommerce/single-product/sale-flash.php:36
+msgid "Sale!"
+msgstr ""
+
+#: src/tm-organik/woocommerce/loop/sale-flash.php:43, src/tm-organik/woocommerce/single-product/sale-flash.php:43
+msgid "New"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:33
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:57
+msgid "There are no reviews yet."
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:70
+msgid "Add a review"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:70
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:71
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:76
+msgid "Email"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:85
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:89
+msgid "Your Rating"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:90
+msgid "Rate&hellip;"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:91
+msgid "Perfect"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:92
+msgid "Good"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:93
+msgid "Average"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:94
+msgid "Not that bad"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:95
+msgid "Very Poor"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:99
+msgid "Your Review"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product-reviews.php:108
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product/meta.php:42
+msgid "SKU"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product/meta.php:45
+msgid "N/A"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product/meta.php:64
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-organik/woocommerce/single-product/meta.php:79
+msgid "Share"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product/product-image.php:46
+msgid "Placeholder"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product/related.php:50
+msgid "Recent viewed"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product/related.php:50, src/tm-organik/woocommerce/single-product/related.php:100, src/tm-organik/woocommerce/single-product/up-sells.php:50
+msgid "Products"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product/related.php:100
+msgid "Related"
+msgstr ""
+
+#: src/tm-organik/woocommerce/single-product/up-sells.php:50
+msgid "You may also like&hellip;"
+msgstr ""

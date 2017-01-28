@@ -1,0 +1,85 @@
+/*--------------------------------------------------------------
+# Header 02
+--------------------------------------------------------------*/
+header.header-02 {
+    .header-container {
+        position: relative;
+        .header-right {
+            position: static;
+            text-align: right;
+            nav {
+                display: inline-block;
+            }
+            .btn-wrap {
+                display: inline-block;
+                position: relative;
+                height: 24px;
+                .mini-cart-wrap {
+                    display: inline-block;
+                    margin-left: 20px;
+                    height: 24px;
+                    .mini-cart {
+                        margin-right: 0;
+                        margin-bottom: -5px;
+                        .mini-cart-icon {
+                            font-size: 24px;
+                            line-height: 1;
+                            margin-right: 0px;
+                            &:after {
+                                top: 0;
+                            }
+                        }
+                        .mini-cart-text {
+                            display: none;
+                        }
+                    }
+                    .widget_shopping_cart_content {
+                        right: 0;
+                        left: auto;
+                    }
+                }
+                .top-search-btn-wrap {
+                    float: right;
+                    display: inline-block;
+                    height: 24px;
+                    border-left: 1px solid #eeeeee;
+                    margin-left: 20px;
+                    padding-left: 20px;
+                    .top-search-btn {
+                        display: inline-block;
+                        width: 24px;
+                        height: 24px;
+                        cursor: pointer;
+                        text-align: left;
+                        margin-bottom: -5px;
+                        &:before {
+                            content: "\f4a5";
+                            font-family: Ionicons;
+                            font-size: 24px;
+                            line-height: 24px;
+                            font-weight: 700;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    nav.menu {
+        text-align: center;
+        li {
+            a {
+                text-transform: uppercase;
+            }
+        }
+    }
+    nav.menu {
+        ul {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    }
+}
+
+@include media-breakpoint-down(lg) {
+
+}

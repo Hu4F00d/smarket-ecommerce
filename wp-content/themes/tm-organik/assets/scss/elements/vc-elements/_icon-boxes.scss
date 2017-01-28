@@ -1,0 +1,61 @@
+.icon-boxes {
+    &--icon {
+        font-size: 40px;
+        color: $primary-color;
+    }
+    &--title {
+        text-transform: uppercase;
+        margin-top: 9px;
+        margin-bottom: 12px;
+    }
+    &--content {
+
+    }
+
+    &.icon_on_top {
+        text-align: center;
+    }
+    &.icon_on_left, &.icon_on_right {
+        margin-bottom: 50px;
+        .icon-boxes--title {
+            margin-top: 0;
+            text-transform: none;
+        }
+        .icon-boxes--icon {
+            font-size: 45px;
+            img {
+                max-width: none;
+            }
+            i {
+                padding: 13px;
+                background-color: #fff;
+                border-radius: 50%;
+                @include transit;
+            }
+        }
+        .icon-boxes--icon, .icon-boxes--inner {
+            display: table-cell;
+            vertical-align: middle;
+        }
+        &:hover {
+            .icon-boxes--icon {
+                i {
+                    background-color: $primary-color;
+                    color: #ffffff;
+                }
+            }
+        }
+    }
+    &.icon_on_left {
+        .icon-boxes--inner {
+            padding-left: 20px;
+        }
+    }
+    &.icon_on_right {
+        text-align: right;
+        float: right;
+        .icon-boxes--inner {
+            padding-right: 20px;
+        }
+    }
+}
